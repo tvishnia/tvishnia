@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tatiana @akawildcat
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java at Coursera. I will add my study projects here.
-- 💞️ I’m looking to collaborate on Java)
-- 📫 How to reach me ...
+- 👀 I’m interested in C#
+- 💞️ I’m looking to collaborate on C#
+- 📫 My LinkedIn profile https://www.linkedin.com/in/tatiana-vishniakova-331a48216/
 
 <!---
 akawildcat/akawildcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
