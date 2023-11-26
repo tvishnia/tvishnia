@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tatiana @akawildcat
 - 👀 I’m interested in C#
-- 💞️ I’m looking to collaborate on C#
 - 📫 My LinkedIn profile https://www.linkedin.com/in/tatiana-vishniakova-331a48216/
 
 <!---
