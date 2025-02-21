@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tatiana @tvishnia
-- 👀 I work in C#
-- 📫 My LinkedIn profile https://www.linkedin.com/in/tatiana-vishniakova/
+- 👀 I specialise in C# and SQL
+- 📫 LinkedIn https://www.linkedin.com/in/tatiana-vishniakova/
+- 📫 Email tovishn@gmail.com
 
 <!---
 tvishnia/tvishnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
