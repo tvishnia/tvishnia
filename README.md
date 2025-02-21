@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tatiana @tvishnia
-- 👀 I specialise in C# and SQL
+- 👀 I specialise in C# and SQL. Currently living in Prague, searching for an opportunity to move to UK.
 - 📫 LinkedIn https://www.linkedin.com/in/tatiana-vishniakova/
 - 📫 Email tovishn@gmail.com
 
